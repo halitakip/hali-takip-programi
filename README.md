@@ -6,6 +6,7 @@ ve teslimat süreçlerini tek bir panelden kolayca yönetmenizi sağlar.
 
 👉 Resmi Website: https://petrapos.com  
 👉 Android Uygulaması: [PetraPOS - Google Play Store](https://play.google.com/store/apps/details?id=com.innodra.petrapos)
+
 👉 iOS Uygulaması: [PetraPOS - App Store](https://apps.apple.com/tr/app/petrapos/id6744338657?l=tr&platform=iphone)
 
 ## Öne Çıkan Özellikler
