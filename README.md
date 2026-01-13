@@ -8,3 +8,4 @@ Halı Takip Uygulaması,
 
 [Halı Yıkama Takip](https://petrapos.com)
 
+PetraPOS
