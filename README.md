@@ -1,11 +1,20 @@
+# Halı Takip Programı
 
-# hali-takip-programi
-[Halı Takip Programı](https://petrapos.com), 
+Halı Takip Programı, halı yıkama işletmeleri için geliştirilmiş
+bir mobil takip uygulamasıdır. Sipariş takibi, müşteri yönetimi
+ve teslimat süreçlerini tek bir panelden kolayca yönetmenizi sağlar.
 
-[Halı Takip](https://petrapos.com), 
+👉 Resmi Website: https://petrapos.com  
+👉 Android Uygulaması: [PetraPOS - Google Play Store](https://play.google.com/store/apps/details?id=com.innodra.petrapos)
+👉 iOS Uygulaması: [PetraPOS - App Store](https://apps.apple.com/tr/app/petrapos/id6744338657?l=tr&platform=iphone)
 
-Halı Takip Uygulaması,
+## Öne Çıkan Özellikler
+- Halı sipariş ve durum takibi
+- Müşteri kayıt ve yönetimi
+- Teslimat ve ödeme kontrolü
+- Günlük ve aylık raporlar
 
-[Halı Yıkama Takip](https://petrapos.com)
+Bu proje, **PetraPOS** altyapısı kullanılarak geliştirilmiştir.
+Halı yıkama işletmelerinin operasyonlarını dijitalleştirmeyi amaçlar.
 
-PetraPOS
+Detaylı bilgi ve demo için resmi web sitemizi ziyaret edebilirsiniz.
